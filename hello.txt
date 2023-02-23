@@ -1,4 +1,1 @@
-@@ -1 +1,2 @@
-- hello world saja hehehe
-+ hello world saja
-+ -[] Tes-
+hello world saja hehehe
