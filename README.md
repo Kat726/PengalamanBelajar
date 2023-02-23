@@ -6,4 +6,4 @@ Belajar kelas memulai Pemrograman dengan Java. (Progres 21%)
  * Belajar tentang apa itu Java dan alasan menggunakannya
  * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java
  
- 
+ Jika kamu tertarik, kamu bisa mengaksesnya di https://www.dicoding.com/academies/60/.
